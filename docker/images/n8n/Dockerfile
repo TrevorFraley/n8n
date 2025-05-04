@@ -49,3 +49,6 @@ RUN \
 ENV SHELL /bin/sh
 USER node
 ENTRYPOINT ["tini", "--", "/docker-entrypoint.sh"]
+<script async src="https://cse.google.com/cse.js?cx=639b0ae52074344ea">
+</script>
+<div class="gcse-search"></div>
